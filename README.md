@@ -7,6 +7,8 @@ I'm learning DevOps and contributing to open-source projects.
 - Docker
 - AWS
 - Ansible
+- Terraform
+- Kubernetes
 - Go
 - Git and GitHub
 
