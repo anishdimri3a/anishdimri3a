@@ -4,6 +4,7 @@ I'm learning DevOps and contributing to open-source projects.
 
 ## 🛠️ Technologies I'm Learning
 - Linux and Networking
+- Shell Scripting
 - Docker
 - AWS
 - Ansible
