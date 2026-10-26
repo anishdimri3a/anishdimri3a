@@ -12,7 +12,8 @@ I'm learning DevOps and contributing to open-source projects.
 - Kubernetes
 - Go
 - Git and GitHub
-
+- Java
+  
 ## 🏆 Achievements
 <div><a href="https://cloud.layer5.io/user/6a52192b-f04e-463b-a1b0-729f6893b170?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
